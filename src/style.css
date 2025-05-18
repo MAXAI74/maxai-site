@@ -7,11 +7,11 @@ body.dark-bg {
 }
 
 .center-container {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  height: 98vh;
+  display: block;
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 40px 24px 40px 24px;
+  box-sizing: border-box;
 }
 
 .manifest {
@@ -64,12 +64,12 @@ hr {
   margin: 2em 0;
 }
 pre {
+  text-align: left;
+  font-size: 1.13em;
   white-space: pre-wrap;
-  word-break: break-all;
-  font-size: 1em;
-}
-pre {
-  text-align: center;
+  word-break: break-word;
+  margin-bottom: 1.5em;
+  margin-top: 0.5em;
 }
 
 @media (max-width: 600px) {
