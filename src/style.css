@@ -68,3 +68,15 @@ pre {
   word-break: break-all;
   font-size: 1em;
 }
+pre {
+  text-align: center;
+}
+
+@media (max-width: 600px) {
+  body, .manifest, pre, h1, h2, p, ul, li, a {
+    font-size: 1.15em !important;
+  }
+  .center-container {
+    padding: 0 2vw;
+  }
+}
