@@ -42,3 +42,29 @@ body.dark-bg {
   border-color: #fff;
   cursor: pointer;
 }
+ul {
+  color: #fafafa;
+  font-size: 1.1em;
+  list-style: none;
+  padding: 0;
+}
+a {
+  color: #fff;
+  text-decoration: underline;
+}
+a:hover {
+  color: #ffa;
+}
+h1, h2 {
+  margin-top: 0;
+}
+hr {
+  border: none;
+  border-top: 1px solid #222;
+  margin: 2em 0;
+}
+pre {
+  white-space: pre-wrap;
+  word-break: break-all;
+  font-size: 1em;
+}
