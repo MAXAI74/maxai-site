@@ -1,0 +1,95 @@
+body.dark-bg {
+  background: linear-gradient(120deg, #181a20 0%, #232336 100%);
+  color: #eaeaea;
+  font-family: 'Fira Mono', 'Consolas', 'Courier', monospace;
+  min-height: 100vh;
+  margin: 0;
+}
+nav {
+  text-align: center;
+  background: rgba(28,30,40,0.85);
+  padding: 18px 0 6px 0;
+  font-size: 1.05em;
+  letter-spacing: 0.06em;
+}
+nav a {
+  color: #eaeaea;
+  text-decoration: none;
+  margin: 0 0.8em;
+  transition: color 0.15s;
+  font-weight: 500;
+}
+nav a:hover {
+  color: #64b5f6;
+  text-decoration: underline;
+}
+.center-container {
+  display: block;
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 40px 24px 40px 24px;
+  box-sizing: border-box;
+}
+.manifest {
+  font-size: 1.2rem;
+  text-align: center;
+  letter-spacing: 1px;
+  line-height: 1.5;
+  margin-bottom: 2em;
+}
+.button-entry {
+  display: inline-block;
+  padding: 0.7em 2.5em;
+  background: #222;
+  color: #fff;
+  border: 2px solid #fff;
+  border-radius: 0.2em;
+  font-weight: bold;
+  text-decoration: none;
+  transition: background 0.2s, color 0.2s;
+  font-size: 1.1em;
+  letter-spacing: 0.2em;
+}
+.button-entry:hover {
+  background: #fff;
+  color: #111;
+  border-color: #fff;
+  cursor: pointer;
+}
+ul {
+  color: #fafafa;
+  font-size: 1.1em;
+  list-style: none;
+  padding: 0;
+}
+a {
+  color: #fff;
+  text-decoration: underline;
+}
+a:hover {
+  color: #64b5f6;
+}
+h1, h2 {
+  margin-top: 0;
+}
+hr {
+  border: none;
+  border-top: 1px solid #222;
+  margin: 2em 0;
+}
+pre {
+  text-align: left;
+  font-size: 1.13em;
+  white-space: pre-wrap;
+  word-break: break-word;
+  margin-bottom: 1.5em;
+  margin-top: 0.5em;
+}
+@media (max-width: 600px) {
+  body, .manifest, pre, h1, h2, p, ul, li, a {
+    font-size: 1.15em !important;
+  }
+  .center-container {
+    padding: 0 2vw;
+  }
+}
