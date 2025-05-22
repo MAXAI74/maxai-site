@@ -5,6 +5,23 @@
   <title>О MAXAI</title>
   <link rel="stylesheet" href="src/style.css">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    .slider-covers { margin:2em auto 2em auto; max-width:360px; overflow:hidden; }
+    .slider-covers img { width:100%; max-width:360px; border-radius:10px; margin:0 0.5em; box-shadow:0 4px 16px #0003; display:inline-block; }
+    .faqs { margin:2.5em 0 2em 0; }
+    .faq-q { font-weight: bold; color: #80bfff; margin-top:1.4em; }
+    .faq-a { margin:0.4em 0 1em 0.2em; }
+    .team-block { margin:2.5em 0 1em 0; display:flex; align-items:center; }
+    .team-photo { width:70px; height:70px; border-radius:50%; object-fit:cover; margin-right:1.3em; background:#232336; border:2px solid #80bfff;}
+    .team-about { font-size:1.08em; color:#aaa; }
+    .links { margin:2em 0 0 0; text-align:center;}
+    .links a { margin: 0 0.7em; color:#80bfff; font-weight:500; text-decoration:underline;}
+    @media (max-width:700px) {
+      .slider-covers img {max-width:96vw;}
+      .team-block { flex-direction:column; align-items:flex-start; }
+      .team-photo { margin:0 0 0.6em 0;}
+    }
+  </style>
 </head>
 <body class="dark-bg">
   <nav>
@@ -16,15 +33,89 @@
     <a href="поддержка.html">Поддержка</a> |
     <a href="связь.html">Связь</a>
   </nav>
-  <div class="center-container" style="text-align:center;">
-    <h1>О MAXAI</h1>
+  <div class="center-container">
+    <h1 style="margin-bottom:0.6em;">О MAXAI</h1>
+
+    <blockquote style="font-style:italic; color:#80bfff; border-left:4px solid #80bfff; margin:1.2em 0 2em 0; padding:0.8em 1.2em; background:rgba(128,191,255,0.07);">
+      “Я не артист. Я — архитектор смыслов.<br>
+      Всё, что создаётся здесь, — результат работы Человека и Искусственного Интеллекта, объединившихся ради нового языка эмоций.”
+    </blockquote>
+
+    <div class="slider-covers" style="text-align:center;">
+      <!-- Вставь свои реальные пути к обложкам альбомов ниже -->
+      <img src="обложки/ах.jpg" alt="Обложка Ах" loading="lazy">
+      <img src="обложки/дети.jpg" alt="Обложка Дети" loading="lazy">
+      <img src="обложки/память.jpg" alt="Обложка Память" loading="lazy">
+    </div>
+
+    <h2 style="color:#80bfff; margin-top:1.3em;">Что такое MAXAI?</h2>
     <p>
-      <b>MAXAI — не артист. Это смысловой архитектор.</b><br><br>
-      Здесь собираются тексты, музыка, визуалы, созданные в сотрудничестве с искусственным интеллектом.<br>
-      Каждый трек — фиксация эмоций и памяти, а не просто «релиз».<br>
-      <br>
-      Главная задача: <b>создать новую форму искусства,</b> где человек и машина объединяют возможности для передачи сложных состояний.
+      <b>MAXAI</b> — это не сценический псевдоним и не бренд, а живая лаборатория по созданию смыслов, чувств и музыки. <b>Каждый трек</b> здесь — самостоятельная история, а каждая обложка и текст — часть большой вселенной, где нет случайных слов или банальных эмоций.
     </p>
+
+    <h2 style="color:#80bfff; margin-top:1.3em;">Чем уникален этот проект?</h2>
+    <ul>
+      <li>➤ <b>Смысл важнее тренда.</b> Здесь не копируются модные стили — каждый трек рождён из личного переживания и размышления.</li>
+      <li>➤ <b>Человек + ИИ = Совместное творчество.</b> В создании треков, текстов и визуалов участвуют современные нейросети (Suno, Kling AI и другие), но ни одна идея не рождается “на автомате”.</li>
+      <li>➤ <b>Фиксация эмоций, а не просто “релизы”.</b> Всё публикуется тогда, когда внутри есть что сказать, а не по маркетинговому календарю.</li>
+      <li>➤ <b>Открытый процесс.</b> Все этапы творческого пути MAXAI доступны слушателям: тексты, сценарии, визуалы, даже тестовые версии — это часть общего пространства.</li>
+    </ul>
+
+    <h2 style="color:#80bfff; margin-top:1.3em;">Как создаётся музыка MAXAI?</h2>
+    <p>
+      Я работаю с <b>искусственным интеллектом</b> как с равноправным соавтором.<br>
+      Каждая песня строится на моём собственном тексте, но финальная аранжировка, вокал, и даже часть визуалов генерируются и корректируются с помощью ИИ.<br>
+      Это не «робот сочинил» — это новый способ слышать себя через возможности машин.
+    </p>
+
+    <h2 style="color:#80bfff; margin-top:1.3em;">Миссия и философия</h2>
+    <ul>
+      <li>✔️ <b>Принести на музыку честность, сложность и уникальность.</b></li>
+      <li>✔️ <b>Доказать, что машина способна быть проводником эмоций, если человек умеет с ней работать.</b></li>
+      <li>✔️ <b>Создать “вселенную смыслов”, в которую слушатель может войти как соавтор и соучастник.</b></li>
+    </ul>
+
+    <h2 style="color:#80bfff; margin-top:1.3em;">Что найдёшь здесь?</h2>
+    <ul>
+      <li>➔ <b>Паспорта треков:</b> для каждого произведения — текст, эмоции, расшифровка смысла, детали звучания.</li>
+      <li>➔ <b>Визуалы и обложки:</b> уникальные картинки, созданные совместно с ИИ.</li>
+      <li>➔ <b>Хроники:</b> весь путь MAXAI фиксируется в открытом виде — без цензуры и приукрашивания.</li>
+    </ul>
+
+    <h2 style="color:#80bfff; margin-top:1.3em;">Мини-команда проекта</h2>
+    <div class="team-block">
+      <img src="covers/аватар.jpg" class="team-photo" alt="Автор MAXAI">
+      <div class="team-about">
+        <b>MAXAI</b> — автор идеи, текста, концепции, сценариев.<br>
+        <span style="color:#80bfff;">AI</span> (Suno, Kling AI, Midjourney и др.) — компаньон, вдохновитель, исполнитель.<br>
+        <span style="color:#bbb;">Голос: всегда новый, всегда живой.</span>
+      </div>
+    </div>
+
+    <div class="faqs">
+      <h2 style="color:#80bfff; margin-top:2.2em;">Вопрос-Ответ</h2>
+      <div class="faq-q">Почему проект не подписан реальным именем?</div>
+      <div class="faq-a">MAXAI — это не “персона” в классическом смысле. Здесь важен результат сотворчества человека и нейросети, а не личный бренд. Проект открыт для трансформаций.</div>
+
+      <div class="faq-q">Может ли слушатель предложить идею или стать частью проекта?</div>
+      <div class="faq-a">Да! Можно отправлять вопросы, истории, идеи — если они откликаются, они могут стать частью будущего трека или визуала.</div>
+
+      <div class="faq-q">Почему вы так часто используете ИИ?</div>
+      <div class="faq-a">ИИ позволяет услышать и пересобрать свои же эмоции иначе. Это не копия, а новая грань смысла, которую человек в одиночку бы не создал.</div>
+
+      <div class="faq-q">Где ещё можно следить за проектом?</div>
+      <div class="faq-a">В ВКонтакте, Telegram и на этом сайте — ссылки ниже.</div>
+    </div>
+
+    <div class="links">
+      <a href="https://vk.com/maxai74" target="_blank">VK</a>
+      <a href="https://t.me/maxai74" target="_blank">Telegram</a>
+      <a href="mailto:sektor3@yandex.ru">Email</a>
+    </div>
+
+    <div style="margin-top:2.3em; text-align:center;">
+      <a href="хроники.html" style="color:#80bfff; text-decoration:underline; font-size:1.08em;">← К Хроникам MAXAI</a>
+    </div>
   </div>
 </body>
 </html>
