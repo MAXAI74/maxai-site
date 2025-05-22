@@ -27,7 +27,8 @@ nav a:hover {
   display: block;
   margin: 0 auto;
   max-width: 800px;
-  padding: 40px 24px 40px 24px;
+  width: 98vw;
+  padding: 3vw 2vw 3vw 2vw;
   box-sizing: border-box;
 }
 .manifest {
@@ -85,11 +86,67 @@ pre {
   margin-bottom: 1.5em;
   margin-top: 0.5em;
 }
+/* Адаптация под телефоны и маленькие экраны */
+@media (max-width: 700px) {
+  .center-container {
+    max-width: 99vw;
+    padding: 2vw 1vw 2vw 1vw;
+  }
+  h1 {
+    font-size: 1.3em;
+  }
+}
+.visual-block img {
+  width: 100%;
+  max-width: 350px;
+  height: auto;
+  border-radius: 10px;
+  margin-bottom: 1em;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 @media (max-width: 600px) {
   body, .manifest, pre, h1, h2, p, ul, li, a {
-    font-size: 1.15em !important;
+    font-size: 1.13em !important;
   }
-  .center-container {
-    padding: 0 2vw;
+  ul.chronicles-list {
+    font-size: 1em;
   }
+}
+/* Для блока хроник (новый стиль) */
+.chronicles-list {
+  max-width: 540px;
+  margin: 3vw auto 0 auto;
+  width: 100%;
+  font-size: 1.15rem;
+  padding: 0;
+}
+.chronicle-row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin: 0.7em 0;
+  width: 100%;
+}
+.chronicle-title {
+  flex: 1 1 46%;
+  text-align: right;
+  padding-right: 2vw;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.chronicle-separator {
+  width: 24px; /* "невидимая" черта */
+  min-width: 18px;
+}
+.chronicle-date {
+  flex: 1 1 46%;
+  text-align: left;
+  padding-left: 2vw;
+  white-space: nowrap;
+  color: #888;
+  font-size: 0.99em;
 }
