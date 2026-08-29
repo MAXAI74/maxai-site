@@ -1,0 +1,782 @@
+[
+  {
+    "index": 1,
+    "title": "Кто я",
+    "slug": "кто_я",
+    "date": "24.08.2024",
+    "href": "хроники/кто_я.html",
+    "cover": "media/covers/кто_я.webp",
+    "accent": [
+      153,
+      157,
+      121
+    ]
+  },
+  {
+    "index": 2,
+    "title": "Я надеюсь",
+    "slug": "я_надеюсь",
+    "date": "30.08.2024",
+    "href": "хроники/я_надеюсь.html",
+    "cover": "media/covers/я_надеюсь.webp",
+    "accent": [
+      98,
+      96,
+      53
+    ]
+  },
+  {
+    "index": 3,
+    "title": "Волхвы",
+    "slug": "волхвы",
+    "date": "01.09.2024",
+    "href": "хроники/волхвы.html",
+    "cover": "media/covers/волхвы.webp",
+    "accent": [
+      110,
+      105,
+      99
+    ]
+  },
+  {
+    "index": 4,
+    "title": "Душа",
+    "slug": "душа",
+    "date": "08.09.2024",
+    "href": "хроники/душа.html",
+    "cover": "media/covers/душа.webp",
+    "accent": [
+      53,
+      91,
+      104
+    ]
+  },
+  {
+    "index": 5,
+    "title": "Уходят дни",
+    "slug": "уходят_дни",
+    "date": "11.09.2024",
+    "href": "хроники/уходят_дни.html",
+    "cover": "media/covers/уходят_дни.webp",
+    "accent": [
+      135,
+      117,
+      103
+    ]
+  },
+  {
+    "index": 6,
+    "title": "Ветер перемен",
+    "slug": "ветер_перемен",
+    "date": "15.09.2024",
+    "href": "хроники/ветер_перемен.html",
+    "cover": "media/covers/ветер_перемен.webp",
+    "accent": [
+      131,
+      131,
+      131
+    ]
+  },
+  {
+    "index": 7,
+    "title": "Признание",
+    "slug": "признание",
+    "date": "16.09.2024",
+    "href": "хроники/признание.html",
+    "cover": "media/covers/признание.webp",
+    "accent": [
+      113,
+      154,
+      173
+    ]
+  },
+  {
+    "index": 8,
+    "title": "Сны",
+    "slug": "сны",
+    "date": "21.09.2024",
+    "href": "хроники/сны.html",
+    "cover": "media/covers/сны.webp",
+    "accent": [
+      145,
+      51,
+      57
+    ]
+  },
+  {
+    "index": 9,
+    "title": "Трибьют 01",
+    "slug": "трибьют_01",
+    "date": "26.09.2024",
+    "href": "хроники/трибьют_01.html",
+    "cover": "media/covers/трибьют_01.webp",
+    "accent": [
+      132,
+      132,
+      132
+    ]
+  },
+  {
+    "index": 10,
+    "title": "Осень жизни",
+    "slug": "осень_жизни",
+    "date": "30.09.2024",
+    "href": "хроники/осень_жизни.html",
+    "cover": "media/covers/осень_жизни.webp",
+    "accent": [
+      181,
+      108,
+      42
+    ]
+  },
+  {
+    "index": 11,
+    "title": "Ночь",
+    "slug": "ночь",
+    "date": "04.10.2024",
+    "href": "хроники/ночь.html",
+    "cover": "media/covers/ночь.webp",
+    "accent": [
+      140,
+      136,
+      128
+    ]
+  },
+  {
+    "index": 12,
+    "title": "Говорящий карман",
+    "slug": "говорящий_карман",
+    "date": "10.10.2024",
+    "href": "хроники/говорящий_карман.html",
+    "cover": "media/covers/говорящий_карман.webp",
+    "accent": [
+      183,
+      87,
+      84
+    ]
+  },
+  {
+    "index": 13,
+    "title": "Блуд",
+    "slug": "блуд",
+    "date": "18.10.2024",
+    "href": "хроники/блуд.html",
+    "cover": "media/covers/блуд.webp",
+    "accent": [
+      209,
+      73,
+      60
+    ]
+  },
+  {
+    "index": 14,
+    "title": "Путь в ночи",
+    "slug": "путь_в_ночи",
+    "date": "26.10.2024",
+    "href": "хроники/путь_в_ночи.html",
+    "cover": "media/covers/путь_в_ночи.webp",
+    "accent": [
+      206,
+      185,
+      152
+    ]
+  },
+  {
+    "index": 15,
+    "title": "Тишина",
+    "slug": "тишина",
+    "date": "01.11.2024",
+    "href": "хроники/тишина.html",
+    "cover": "media/covers/тишина.webp",
+    "accent": [
+      54,
+      81,
+      84
+    ]
+  },
+  {
+    "index": 16,
+    "title": "43",
+    "slug": "43",
+    "date": "08.11.2024",
+    "href": "хроники/43.html",
+    "cover": "media/covers/43.webp",
+    "accent": [
+      63,
+      115,
+      142
+    ]
+  },
+  {
+    "index": 17,
+    "title": "Прощание",
+    "slug": "прощание",
+    "date": "15.11.2024",
+    "href": "хроники/прощание.html",
+    "cover": "media/covers/прощание.webp",
+    "accent": [
+      83,
+      86,
+      88
+    ]
+  },
+  {
+    "index": 18,
+    "title": "Хамелеон",
+    "slug": "хамелеон",
+    "date": "22.11.2024",
+    "href": "хроники/хамелеон.html",
+    "cover": "media/covers/хамелеон.webp",
+    "accent": [
+      214,
+      79,
+      91
+    ]
+  },
+  {
+    "index": 19,
+    "title": "Привкус металла",
+    "slug": "привкус_металла",
+    "date": "29.11.2024",
+    "href": "хроники/привкус_металла.html",
+    "cover": "media/covers/привкус_металла.webp",
+    "accent": [
+      48,
+      72,
+      99
+    ]
+  },
+  {
+    "index": 20,
+    "title": "Словоблудие",
+    "slug": "словоблудие",
+    "date": "06.12.2024",
+    "href": "хроники/словоблудие.html",
+    "cover": "media/covers/словоблудие.webp",
+    "accent": [
+      224,
+      129,
+      77
+    ]
+  },
+  {
+    "index": 21,
+    "title": "Что такое любовь",
+    "slug": "что_такое_любовь",
+    "date": "13.12.2024",
+    "href": "хроники/что_такое_любовь.html",
+    "cover": "media/covers/что_такое_любовь.webp",
+    "accent": [
+      202,
+      112,
+      103
+    ]
+  },
+  {
+    "index": 22,
+    "title": "В темноте",
+    "slug": "в_темноте",
+    "date": "20.12.2024",
+    "href": "хроники/в_темноте.html",
+    "cover": "media/covers/в_темноте.webp",
+    "accent": [
+      134,
+      130,
+      129
+    ]
+  },
+  {
+    "index": 23,
+    "title": "Выбор",
+    "slug": "выбор",
+    "date": "10.01.2025",
+    "href": "хроники/выбор.html",
+    "cover": "media/covers/выбор.webp",
+    "accent": [
+      202,
+      53,
+      58
+    ]
+  },
+  {
+    "index": 24,
+    "title": "Мы",
+    "slug": "мы",
+    "date": "30.01.2025",
+    "href": "хроники/мы.html",
+    "cover": "media/covers/мы.webp",
+    "accent": [
+      169,
+      84,
+      137
+    ]
+  },
+  {
+    "index": 25,
+    "title": "Пламя победы",
+    "slug": "пламя_победы",
+    "date": "13.02.2025",
+    "href": "хроники/пламя_победы.html",
+    "cover": "media/covers/пламя_победы.webp",
+    "accent": [
+      43,
+      83,
+      117
+    ]
+  },
+  {
+    "index": 26,
+    "title": "Страсть",
+    "slug": "страсть",
+    "date": "05.03.2025",
+    "href": "хроники/страсть.html",
+    "cover": "media/covers/страсть.webp",
+    "accent": [
+      49,
+      63,
+      82
+    ]
+  },
+  {
+    "index": 27,
+    "title": "Нет слов",
+    "slug": "нет_слов",
+    "date": "20.03.2025",
+    "href": "хроники/нет_слов.html",
+    "cover": "media/covers/нет_слов.webp",
+    "accent": [
+      145,
+      122,
+      110
+    ]
+  },
+  {
+    "index": 28,
+    "title": "Бамбук",
+    "slug": "бамбук",
+    "date": "01.04.2025",
+    "href": "хроники/бамбук.html",
+    "cover": "media/covers/бамбук.webp",
+    "accent": [
+      214,
+      8,
+      7
+    ]
+  },
+  {
+    "index": 29,
+    "title": "Грёзы",
+    "slug": "грёзы",
+    "date": "17.04.2025",
+    "href": "хроники/грёзы.html",
+    "cover": "media/covers/грёзы.webp",
+    "accent": [
+      5,
+      65,
+      195
+    ]
+  },
+  {
+    "index": 30,
+    "title": "Память",
+    "slug": "память",
+    "date": "08.05.2025",
+    "href": "хроники/память.html",
+    "cover": "media/covers/память.webp",
+    "accent": [
+      181,
+      152,
+      108
+    ]
+  },
+  {
+    "index": 31,
+    "title": "Дети",
+    "slug": "дети",
+    "date": "22.05.2025",
+    "href": "хроники/дети.html",
+    "cover": "media/covers/дети.webp",
+    "accent": [
+      222,
+      119,
+      35
+    ]
+  },
+  {
+    "index": 32,
+    "title": "Ах",
+    "slug": "ах",
+    "date": "05.06.2025",
+    "href": "хроники/ах.html",
+    "cover": "media/covers/ах.webp",
+    "accent": [
+      150,
+      2,
+      2
+    ]
+  },
+  {
+    "index": 33,
+    "title": "Призрак",
+    "slug": "призрак",
+    "date": "19.06.2025",
+    "href": "хроники/призрак.html",
+    "cover": "media/covers/призрак.webp",
+    "accent": [
+      52,
+      99,
+      121
+    ]
+  },
+  {
+    "index": 34,
+    "title": "Ёж",
+    "slug": "ёж",
+    "date": "03.07.2025",
+    "href": "хроники/ёж.html",
+    "cover": "media/covers/ёж.webp",
+    "accent": [
+      180,
+      210,
+      226
+    ]
+  },
+  {
+    "index": 35,
+    "title": "Путь",
+    "slug": "путь",
+    "date": "17.07.2025",
+    "href": "хроники/путь.html",
+    "cover": "media/covers/путь.webp",
+    "accent": [
+      237,
+      125,
+      13
+    ]
+  },
+  {
+    "index": 36,
+    "title": "Никогда",
+    "slug": "никогда",
+    "date": "31.07.2025",
+    "href": "хроники/никогда.html",
+    "cover": "media/covers/никогда.webp",
+    "accent": [
+      169,
+      165,
+      153
+    ]
+  },
+  {
+    "index": 37,
+    "title": "Выходной",
+    "slug": "выходной",
+    "date": "14.08.2025",
+    "href": "хроники/выходной.html",
+    "cover": "media/covers/выходной.webp",
+    "accent": [
+      213,
+      11,
+      5
+    ]
+  },
+  {
+    "index": 38,
+    "title": "Клад",
+    "slug": "клад",
+    "date": "28.08.2025",
+    "href": "хроники/клад.html",
+    "cover": "media/covers/клад.webp",
+    "accent": [
+      168,
+      101,
+      32
+    ]
+  },
+  {
+    "index": 39,
+    "title": "Ядовитое блаженство",
+    "slug": "ядовитое_блаженство",
+    "date": "11.09.2025",
+    "href": "хроники/ядовитое_блаженство.html",
+    "cover": "media/covers/ядовитое_блаженство.webp",
+    "accent": [
+      90,
+      31,
+      17
+    ]
+  },
+  {
+    "index": 40,
+    "title": "Ты и я",
+    "slug": "ты_и_я",
+    "date": "25.09.2025",
+    "href": "хроники/ты_и_я.html",
+    "cover": "media/covers/ты_и_я.webp",
+    "accent": [
+      224,
+      106,
+      54
+    ]
+  },
+  {
+    "index": 41,
+    "title": "Живу",
+    "slug": "живу",
+    "date": "09.10.2025",
+    "href": "хроники/живу.html",
+    "cover": "media/covers/живу.webp",
+    "accent": [
+      82,
+      82,
+      82
+    ]
+  },
+  {
+    "index": 42,
+    "title": "Горечь",
+    "slug": "горечь",
+    "date": "23.10.2025",
+    "href": "хроники/горечь.html",
+    "cover": "media/covers/горечь.webp",
+    "accent": [
+      188,
+      167,
+      138
+    ]
+  },
+  {
+    "index": 43,
+    "title": "Что-то",
+    "slug": "что_то",
+    "date": "06.11.2025",
+    "href": "хроники/что_то.html",
+    "cover": "media/covers/что_то.webp",
+    "accent": [
+      74,
+      83,
+      73
+    ]
+  },
+  {
+    "index": 44,
+    "title": "Новый год",
+    "slug": "новый_год",
+    "date": "27.11.2025",
+    "href": "хроники/новый_год.html",
+    "cover": "media/covers/новый_год.webp",
+    "accent": [
+      14,
+      60,
+      82
+    ]
+  },
+  {
+    "index": 45,
+    "title": "Цуцик",
+    "slug": "цуцик",
+    "date": "04.12.2025",
+    "href": "хроники/цуцик.html",
+    "cover": "media/covers/цуцик.webp",
+    "accent": [
+      119,
+      135,
+      179
+    ]
+  },
+  {
+    "index": 46,
+    "title": "Сон",
+    "slug": "сон",
+    "date": "08.01.2026",
+    "href": "хроники/сон.html",
+    "cover": "media/covers/сон.webp",
+    "accent": [
+      21,
+      55,
+      87
+    ]
+  },
+  {
+    "index": 47,
+    "title": "Мошки на окошке",
+    "slug": "мошки_на_окошке",
+    "date": "22.01.2026",
+    "href": "хроники/мошки_на_окошке.html",
+    "cover": "media/covers/мошки_на_окошке.webp",
+    "accent": [
+      212,
+      162,
+      57
+    ]
+  },
+  {
+    "index": 48,
+    "title": "Немые сцены",
+    "slug": "немые_сцены",
+    "date": "05.02.2026",
+    "href": "хроники/немые_сцены.html",
+    "cover": "media/covers/немые_сцены.webp",
+    "accent": [
+      226,
+      214,
+      178
+    ]
+  },
+  {
+    "index": 49,
+    "title": "Сквозь пыль и искры",
+    "slug": "сквозь_пыль_и_искры",
+    "date": "20.02.2026",
+    "href": "хроники/сквозь_пыль_и_искры.html",
+    "cover": "media/covers/сквозь_пыль_и_искры.webp",
+    "accent": [
+      190,
+      89,
+      48
+    ]
+  },
+  {
+    "index": 50,
+    "title": "Пульс",
+    "slug": "пульс",
+    "date": "05.03.2026",
+    "href": "хроники/пульс.html",
+    "cover": "media/covers/пульс.webp",
+    "accent": [
+      248,
+      13,
+      16
+    ]
+  },
+  {
+    "index": 51,
+    "title": "Хаос",
+    "slug": "хаос",
+    "date": "19.03.2026",
+    "href": "хроники/хаос.html",
+    "cover": "media/covers/хаос.webp",
+    "accent": [
+      56,
+      77,
+      96
+    ]
+  },
+  {
+    "index": 52,
+    "title": "Падший ангел",
+    "slug": "падший_ангел",
+    "date": "02.04.2026",
+    "href": "хроники/падший_ангел.html",
+    "cover": "media/covers/падший_ангел.webp",
+    "accent": [
+      223,
+      131,
+      62
+    ]
+  },
+  {
+    "index": 53,
+    "title": "Тёплый снег",
+    "slug": "тёплый_снег",
+    "date": "16.04.2026",
+    "href": "хроники/тёплый_снег.html",
+    "cover": "media/covers/тёплый_снег.webp",
+    "accent": [
+      192,
+      132,
+      108
+    ]
+  },
+  {
+    "index": 54,
+    "title": "Не сломать",
+    "slug": "не_сломать",
+    "date": "30.04.2026",
+    "href": "хроники/не_сломать.html",
+    "cover": "media/covers/не_сломать.webp",
+    "accent": [
+      120,
+      57,
+      31
+    ]
+  },
+  {
+    "index": 55,
+    "title": "Промежуток",
+    "slug": "промежуток",
+    "date": "14.05.2026",
+    "href": "хроники/промежуток.html",
+    "cover": "media/covers/промежуток.webp",
+    "accent": [
+      213,
+      123,
+      72
+    ]
+  },
+  {
+    "index": 56,
+    "title": "Оживаю",
+    "slug": "оживаю",
+    "date": "28.05.2026",
+    "href": "хроники/оживаю.html",
+    "cover": "media/covers/оживаю.webp",
+    "accent": [
+      119,
+      90,
+      72
+    ]
+  },
+  {
+    "index": 57,
+    "title": "Пепел",
+    "slug": "пепел",
+    "date": "11.06.2026",
+    "href": "хроники/пепел.html",
+    "cover": "media/covers/пепел.webp",
+    "accent": [
+      103,
+      53,
+      35
+    ]
+  },
+  {
+    "index": 58,
+    "title": "До утра",
+    "slug": "до_утра",
+    "date": "25.06.2026",
+    "href": "хроники/до_утра.html",
+    "cover": "media/covers/до_утра.webp",
+    "accent": [
+      33,
+      59,
+      82
+    ]
+  },
+  {
+    "index": 59,
+    "title": "Страх",
+    "slug": "страх",
+    "date": "09.07.2026",
+    "href": "хроники/страх.html",
+    "cover": "media/covers/страх.webp",
+    "accent": [
+      147,
+      139,
+      132
+    ]
+  },
+  {
+    "index": 60,
+    "title": "Разные",
+    "slug": "разные",
+    "date": "23.07.2026",
+    "href": "хроники/разные.html",
+    "cover": "media/covers/разные.webp",
+    "accent": [
+      183,
+      109,
+      45
+    ]
+  }
+]
