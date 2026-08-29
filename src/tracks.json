@@ -778,5 +778,19 @@
       109,
       45
     ]
+  },
+  {
+    "index": 61,
+    "title": "Галя, отмена!",
+    "slug": "галя_отмена",
+    "date": "27.08.2026",
+    "href": "хроники/галя_отмена.html",
+    "cover": "media/covers/галя_отмена.webp",
+    "accent": [
+      228,
+      5,
+      60
+    ],
+    "listen": "https://band.link/Wtyq8"
   }
 ]
